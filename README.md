@@ -78,14 +78,8 @@ The file **`pizza-analysis.sql`** includes several analytical queries:
 
 ## 📈 Visual Insights
 
-### 🥇 Total Revenue by Pizza Category
-![Revenue by Pizza Category](./revenue_by_category.png)
 
-### 🍕 Revenue by Pizza Size
-![Revenue by Pizza Size](./revenue_by_size.png)
-
-### ⏰ Hourly Order Trend
-![Hourly Orders](./hourly_orders.png)
+![Analysis Dashboard](./Pizza.png)
 
 ---
 
